@@ -30,6 +30,7 @@ namespace FormatoTexto
         {
             TextoSalidaTextBlock.FontStyle = FontStyles.Italic;
         }
+
         private void NegritaCheckBox_Unchecked(object sender, RoutedEventArgs e)
         {
             TextoSalidaTextBlock.FontWeight = FontWeights.Normal;
@@ -40,15 +41,16 @@ namespace FormatoTexto
             TextoSalidaTextBlock.FontStyle = FontStyles.Normal;
         }
 
-
         private void ColorAzulRadioButton_Checked(object sender, RoutedEventArgs e)
         {
             TextoSalidaTextBlock.Foreground = new SolidColorBrush(Colors.Blue);
         }
+
         private void ColorRojoRadioButton_Checked(object sender, RoutedEventArgs e)
         {
             TextoSalidaTextBlock.Foreground = new SolidColorBrush(Colors.Red);
         }
+
         private void ColorVerdeRadioButton_Checked(object sender, RoutedEventArgs e)
         {
             TextoSalidaTextBlock.Foreground = new SolidColorBrush(Colors.Green);
