@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FormatoTexto"
         mc:Ignorable="d"
+        Icon="img/icon.ico"
         Title="Formato Texto" Height="354.098" Width="774.18">
     <Grid>
         <TextBlock HorizontalAlignment="Left" Margin="74,51,0,0" TextWrapping="Wrap" Text="Texto" VerticalAlignment="Top" FontSize="16" Height="26"/>
