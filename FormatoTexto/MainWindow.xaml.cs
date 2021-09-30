@@ -41,7 +41,7 @@ namespace FormatoTexto
             TextoSalidaTextBlock.FontStyle = FontStyles.Normal;
         }
 
-        private void ColorAzulRadioButton_Checked(object sender, RoutedEventArgs e)
+        private void ColorAzulRadioButton_Checked(object sender, RoutedEventArgs e) 
         {
             TextoSalidaTextBlock.Foreground = new SolidColorBrush(Colors.Blue);
         }
