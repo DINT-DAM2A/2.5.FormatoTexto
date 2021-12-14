@@ -1,0 +1,7 @@
+5. Desarrollar una aplicación para dar formato a un texto, teniendo en cuenta las
+siguientes indicaciones:
+• Se podrá configurar el texto, si está en negrita y/o cursiva, y el color del texto
+(que podrá ser Azul, Rojo o Verde).
+• Comprobar en el ejecutable suministrado el comportamiento del texto
+cuando es demasiado largo.
+Nombre del proyecto: 2.5.FormatoTexto
